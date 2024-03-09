@@ -12,7 +12,7 @@
     "lib": "lib/"
   },
   "dependencies": {
-    "connect": "0.5.4",
+    "connect": "3.0.0",
     "highlight": "",
     "express": "~3.0.0beta4",
     "ejs-locals": "~0.1.3",
